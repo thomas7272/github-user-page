@@ -26,9 +26,8 @@ You will hear back within 48 hours from us via email.
 2. Clone the forked repository and proceed with steps mentioned below.
 
 ### Install requirements
-* ng serve
 * Install dependencies : `npm install --save-dev`
 
 ## Development server
 
-Run `nx serve front-end-internship-assignment` for a dev server. Navigate to https://fyle-b1021.web.app/ . The app will automatically reload if you change any of the source files.
+Run `ng serve' for a dev server. Navigate to https://fyle-b1021.web.app/ . The app will automatically reload if you change any of the source files.

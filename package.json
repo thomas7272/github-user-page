@@ -1,0 +1,51 @@
+{
+  "name": "my-first-project",
+  "version": "0.0.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "watch": "ng build --watch --configuration development",
+    "test": "ng test"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "^17.3.4",
+    "@angular/common": "^17.3.4",
+    "@angular/compiler": "^17.3.4",
+    "@angular/core": "^17.3.4",
+    "@angular/forms": "^17.3.4",
+    "@angular/platform-browser": "^17.3.4",
+    "@angular/platform-browser-dynamic": "^17.3.4",
+    "@angular/router": "^17.3.4",
+    "bootstrap": "^5.2.3",
+    "cors": "^2.8.5",
+    "jquery": "^3.6.3",
+    "package_name": "^1.0.2",
+    "popper.js": "^1.16.1",
+    "rxjs": "~7.5.0",
+    "tslib": "^2.0.0",
+    "zone.js": "~0.14.4"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^17.3.4",
+    "@angular-eslint/builder": "4.3.0",
+    "@angular-eslint/eslint-plugin": "4.3.0",
+    "@angular-eslint/eslint-plugin-template": "4.3.0",
+    "@angular-eslint/schematics": "4.3.0",
+    "@angular-eslint/template-parser": "4.3.0",
+    "@angular/cli": "^17.3.4",
+    "@angular/compiler-cli": "^17.3.4",
+    "@types/jasmine": "~3.6.0",
+    "@typescript-eslint/eslint-plugin": "4.16.1",
+    "@typescript-eslint/parser": "4.16.1",
+    "eslint": "^7.6.0",
+    "jasmine-core": "~3.6.0",
+    "karma": "~6.4.0",
+    "karma-chrome-launcher": "~3.1.0",
+    "karma-coverage": "~2.0.3",
+    "karma-jasmine": "~4.0.0",
+    "karma-jasmine-html-reporter": "^1.5.0",
+    "typescript": "~5.4.5"
+  }
+}
